@@ -1,5 +1,5 @@
 {
-  "name": "validate.js",
+  "name": "@stomydent/validate.js",
   "version": "1.0.0",
   "author": "Nicklas Ansman <nicklas@ansman.se>",
   "patcher": "stomydent",
